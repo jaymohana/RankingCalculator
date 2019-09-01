@@ -1,0 +1,13 @@
+In order to run this application, please follow the below instructions:
+
+1) Ensure you have installed the applicaton. This can be done by either running the install.bat file (if using Windows OS), or running the below commands on a terminal:
+   'pip install tqdm'
+   'pip install soccer'
+   'python setup.py install'
+   
+2) Once installed, run the command 'soccer'. This will start the program and prompt the user to enter the absolute file path of the text file of soccer scores. Text files that were used to test sit in the 'input' folder of the project's home directory. '2019season.txt' includes all the scores of the current English Premier League season up until the morning of August 31st.
+
+3) The output can either be displayed to the console, or to a text file which will be saved in the project's root directory.
+
+4) In order to run the automated test file, simply run the command 'python -m unittest'
+

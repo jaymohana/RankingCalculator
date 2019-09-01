@@ -1,0 +1,2 @@
+I was unable to create a shell script for Unix systems for an easy install because this was develped on a Windows machine, so the manual commands have to be run on Unix systems.
+The install.bat has been tested on a Windows machine.

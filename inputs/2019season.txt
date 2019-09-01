@@ -1,0 +1,38 @@
+Liverpool 4,Norwich 1
+West Ham 0,Man City 5
+Crystal Palace 0,Everton 0
+Burnley FC 3,Southampton 0
+Watford 0,Brighton 3
+Bournemouth 1,Sheff Utd 1
+Tottenham 3,Aston Villa 1
+Leicester City 0,Wolves 0
+Newcastle 0,Arsenal 1
+Man United 4,Chelsea 0
+Arsenal 2,Burnley FC 1
+Southampton 1,Liverpool 2
+Brighton 1,West Ham 1
+Everton 1,Watford 0
+Norwich 3,Newcastle 1
+Aston Villa 1,Bournemouth 2
+Man City 2,Tottenham 2
+Sheff Utd 1,Crystal Palace 0
+Chelsea 1,Leicester City 1
+Wolves 1,Man United 1
+Aston Villa 2,Everton 0
+Norwich 2,Chelsea 3
+Brighton 0,Southampton 2
+Man United 1,Crystal Palace 2
+Watford 1,West Ham 3
+Sheff Utd 1,Leicester City 2
+Liverpool 3,Arsenal 1
+Bournemouth 1,Man City 3
+Tottenham 0,Newcastle 1
+Wolves 1,Burnley FC 1
+Southampton 1,Man United 1
+Crystal Palace 1,Aston Villa 0
+Chelsea 2,Sheff Utd 2
+Newcastle 1,Watford 1
+Man City 4,Brighton 0
+West Ham 2,Norwich 0
+Leicester City 3,Bournemouth 1
+Burnley FC 0,Liverpool 3
