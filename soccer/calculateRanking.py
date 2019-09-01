@@ -1,7 +1,5 @@
 import re
 from operator import itemgetter
-import time
-from tqdm import tqdm
 
 dict = {}
 
@@ -26,8 +24,6 @@ def scoreCalculator(text):
         else:
             dict[team2] += 3
 
-    for i in tqdm(range(1), desc='COMPILING'):
-        time.sleep(0.2)
     print("Rankings compiled!")
 
     # returning here just for the automated test.

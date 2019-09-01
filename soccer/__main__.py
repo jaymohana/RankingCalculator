@@ -6,15 +6,12 @@ from sys import argv
 print()
 print("|*************************************************|")
 print()
-print("    WELCOME TO SOCCER LEAGUE RANKING CALCULATOR   ")
+print("    WELCOME TO SOCCER LEAGUE RANKING CALCULATOR    ")
 print()
 print("|*************************************************|")
 print()
 
-#file1 = open(input (str("Please enter the name of the file you wish to open:" )),"r")
-#f = file(raw_input("Enter filename: "), 'r')
 def main():
-
 	file1 = open(input(str("Please enter the absolute file path of the text file of scores: " )),"r")
 	scoreCalculator(file1)
 	print()
